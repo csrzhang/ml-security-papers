@@ -89,10 +89,10 @@ Here, we only list some representative papers of popular Machine Learning Attack
 
 **Longer List of Papers (2020-2022):**
 
--  [IEEE S&P Selected Papers](IEEE S&P.md)
--  [ACM CCS Selected Papers](ACM CCS.md) 
--  [USENIX Security Selected Papers](USENIX Security.md) 
--  [ISOC NDSS Selected Papers](ISOC NDSS.md) 
+-  [IEEE S&P Papers](IEEE_SP.md)
+-  [ACM CCS Papers](ACM_CCS.md)
+-  [USENIX Security Papers](USENIX_Security.md)
+-  [ISOC NDSS Papers](ISOC_NDSS.md)
 
 
 
