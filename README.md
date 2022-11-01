@@ -10,8 +10,6 @@
 
 Here, we only list some representative papers of popular Machine Learning Attacks in 2022. For the full list, please refer to the following links.
 
-
-
 ### S&P 2022
 
 | Topic                                  | Title                                                        |
@@ -31,8 +29,6 @@ Here, we only list some representative papers of popular Machine Learning Attack
 
 
 
-
-
 ### CCS 2022
 
 | Topic                       | Title                                                        |
@@ -49,8 +45,6 @@ Here, we only list some representative papers of popular Machine Learning Attack
 |                             | EIFFeL: Ensuring Integrity for Federated Learning            |
 |                             | pMPL: A Robust Multi-Party Learning Framework with a Privileged Party |
 |                             | Private and Reliable Neural Network Inference                |
-
-
 
 
 
@@ -74,8 +68,6 @@ Here, we only list some representative papers of popular Machine Learning Attack
 
 
 
-
-
 ### NDSS 2022
 
 | Topic                | Title                                                        |
@@ -95,14 +87,12 @@ Here, we only list some representative papers of popular Machine Learning Attack
 
 
 
-
-
 **Longer List of Papers (2020-2022):**
 
--  [IEEE S&P Papers](IEEE_SP.md)
--  [ACM CCS Papers](ACM_CCS.md)
--  [USENIX Security Papers](USENIX_Security.md)
--  [ISOC NDSS Papers](ISOC_NDSS.md)
+-  [IEEE S&P Papers](security-top4/IEEE_SP.md)
+-  [ACM CCS Papers](security-top4/ACM_CCS.md)
+-  [USENIX Security Papers](security-top4/USENIX_Security.md)
+-  [ISOC NDSS Papers](security-top4/ISOC_NDSS.md)
 
 
 
