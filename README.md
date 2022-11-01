@@ -2,13 +2,15 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> This repository contains a list of *ML Security* (poisoning, backdoor), *Robustness* (adversarial examples), *Privacy* (inference, recovery) and *Privacy & Anonymization* papers of **Top4 ** from <u>2020</u> to <u>2022</u>.
+> This repository contains a list of *ML Security* (poisoning, backdoor), *Robustness* (adversarial examples), *Privacy* (inference, recovery) and *Privacy & Anonymization* papers of *Top 4* from <u>2020</u> to <u>2022</u>.
 
 
 
 ## Selected Papers in 2022
 
 Here, we only list some representative papers of popular Machine Learning Attacks in 2022. For the full list, please refer to the following links.
+
+
 
 ### S&P 2022
 
@@ -29,6 +31,8 @@ Here, we only list some representative papers of popular Machine Learning Attack
 
 
 
+
+
 ### CCS 2022
 
 | Topic                       | Title                                                        |
@@ -45,6 +49,8 @@ Here, we only list some representative papers of popular Machine Learning Attack
 |                             | EIFFeL: Ensuring Integrity for Federated Learning            |
 |                             | pMPL: A Robust Multi-Party Learning Framework with a Privileged Party |
 |                             | Private and Reliable Neural Network Inference                |
+
+
 
 
 
@@ -68,6 +74,8 @@ Here, we only list some representative papers of popular Machine Learning Attack
 
 
 
+
+
 ### NDSS 2022
 
 | Topic                | Title                                                        |
@@ -84,6 +92,8 @@ Here, we only list some representative papers of popular Machine Learning Attack
 |                      | [Euler: Detecting Network Lateral Movement via Scalable Temporal Graph Link Prediction](https://www.ndss-symposium.org/ndss-paper/auto-draft-227/) |
 |                      | [Fooling the Eyes of Autonomous Vehicles: Robust Physical Adversarial Examples Against Traffic Sign Recognition Systems](https://www.ndss-symposium.org/ndss-paper/auto-draft-228/) |
 |                      | [FedCRI: Federated Mobile Cyber-Risk Intelligence](https://www.ndss-symposium.org/ndss-paper/auto-draft-229/) |
+
+
 
 
 
